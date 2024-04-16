@@ -16,6 +16,7 @@ var gameState = "TITLE"; // TITLE, EDITOR, PLAY, GAMEOVER
 // var TitleScreen = true;
 // var MapEditingMode = false;
 
+//practice commit - will remove later. Hello World!
 
 function moveEnemies() {
 	for( var i = 0; i<enemyList.length; i++ ) {
